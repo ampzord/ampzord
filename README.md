@@ -1,6 +1,12 @@
-### Hi there 👋
+### Welcome to my Github Profile
 
-![My Remote Image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+My main stacks of interest are:
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 <!--
 **ampzord/ampzord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
