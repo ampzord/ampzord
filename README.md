@@ -8,4 +8,4 @@ My main stacks of interest are:
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </p>
 
-You can find in my profile repositories to several classes related to my Master's Degree @ FEUP and several pet projects that I did.
+You can find in my profile various repositories related to my Master's Degree @ FEUP and other unrelated projects.
